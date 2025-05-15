@@ -1,0 +1,1 @@
+This is a simple blog application.You can commint and same that.Also have edit and delete options.
